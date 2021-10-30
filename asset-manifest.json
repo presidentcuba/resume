@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.dc3d2a1c.chunk.css",
+    "main.js": "/resume/static/js/main.ad6209e3.chunk.js",
+    "main.js.map": "/resume/static/js/main.ad6209e3.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.f1c71e73.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.f1c71e73.js.map",
+    "static/css/2.f68393b7.chunk.css": "/resume/static/css/2.f68393b7.chunk.css",
+    "static/js/2.620842f8.chunk.js": "/resume/static/js/2.620842f8.chunk.js",
+    "static/js/2.620842f8.chunk.js.map": "/resume/static/js/2.620842f8.chunk.js.map",
+    "static/js/3.28fed1b5.chunk.js": "/resume/static/js/3.28fed1b5.chunk.js",
+    "static/js/3.28fed1b5.chunk.js.map": "/resume/static/js/3.28fed1b5.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/2.f68393b7.chunk.css.map": "/resume/static/css/2.f68393b7.chunk.css.map",
+    "static/css/main.dc3d2a1c.chunk.css.map": "/resume/static/css/main.dc3d2a1c.chunk.css.map",
+    "static/js/2.620842f8.chunk.js.LICENSE.txt": "/resume/static/js/2.620842f8.chunk.js.LICENSE.txt",
+    "static/media/3x4.dd2c2ee2.PNG": "/resume/static/media/3x4.dd2c2ee2.PNG",
+    "static/media/angular.88522df8.png": "/resume/static/media/angular.88522df8.png",
+    "static/media/index.css": "/resume/static/media/bg-header.3146aaad.jpg",
+    "static/media/bs4.3c2604e2.png": "/resume/static/media/bs4.3c2604e2.png",
+    "static/media/css.9144e917.png": "/resume/static/media/css.9144e917.png",
+    "static/media/cv.0f28de6d.pdf": "/resume/static/media/cv.0f28de6d.pdf",
+    "static/media/html.0d9cfb6c.png": "/resume/static/media/html.0d9cfb6c.png",
+    "static/media/js.791bce2a.png": "/resume/static/media/js.791bce2a.png",
+    "static/media/mekong.3d63e57a.png": "/resume/static/media/mekong.3d63e57a.png",
+    "static/media/newshop.aceccf29.png": "/resume/static/media/newshop.aceccf29.png",
+    "static/media/php.6a2ad28b.png": "/resume/static/media/php.6a2ad28b.png",
+    "static/media/react.588cb44b.png": "/resume/static/media/react.588cb44b.png",
+    "static/media/resume.bfe17942.PNG": "/resume/static/media/resume.bfe17942.PNG",
+    "static/media/slick-theme.css": "/resume/static/media/slick.c94f7671.ttf",
+    "static/media/thiendo1.9c5489fa.png": "/resume/static/media/thiendo1.9c5489fa.png",
+    "static/media/udemy.c765819a.PNG": "/resume/static/media/udemy.c765819a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1c71e73.js",
+    "static/css/2.f68393b7.chunk.css",
+    "static/js/2.620842f8.chunk.js",
+    "static/css/main.dc3d2a1c.chunk.css",
+    "static/js/main.ad6209e3.chunk.js"
+  ]
+}
