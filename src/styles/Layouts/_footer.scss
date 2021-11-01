@@ -1,0 +1,42 @@
+.footer {
+    margin-top: 80px;
+    .footer-content {
+        background-color: #152f4f;
+        padding: 20px 0px;
+        .row {
+            margin: 0px !important;
+        }
+        .item {
+            h5 {
+                color: #fff;
+                margin-bottom: 10px;
+                font-weight: 450;
+                font-size: 26px;
+            }
+            ul {
+                padding: 0;
+                li {
+                    list-style: none;
+                    margin: 5px 0px;
+                    color: #fff;
+                    .icon {
+                        margin-right: 10px;
+                    }
+                    a {
+                        color: #fff;
+                        font-weight: 400;
+                        
+                    }
+                }
+            }
+        }
+    }
+    .copyright {
+        display: flex;
+        align-items: center;
+        background-color: #102846;
+        justify-content: center;
+        color: #fff;
+        padding: 10px 0px;
+    }
+}

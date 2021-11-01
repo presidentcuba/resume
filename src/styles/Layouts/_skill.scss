@@ -1,0 +1,42 @@
+.skill {
+    margin: 50px 0px;
+    .skill-title {
+        text-align: center;
+        margin-bottom: 30px;
+        h3 {
+            font-size: 30px;
+            font-weight: 700;
+            color: rgba(0, 0, 0, 0.9);
+        }
+    }
+    .skill-content {
+        width: 99%;
+        margin: auto;
+        .item {
+            display: flex !important;
+            justify-content: center;
+            img {
+                width: 150px;
+            }
+        }
+        .slick-slider {
+            position: relative;
+            .slick-prev, .slick-next {
+                position: absolute;
+                background-color: #07cb79;
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                z-index: 100;
+                box-shadow: 0px 2px 8px #07cb79;
+                border: 1px solid #07cb79;
+            }
+            .slick-prev {
+                left: 1%;
+            }
+            .slick-next {
+                right: 1%;
+            }
+        }
+    }
+}

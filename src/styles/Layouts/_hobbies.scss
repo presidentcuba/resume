@@ -1,0 +1,65 @@
+.hobbies {
+    margin-top: 30px;
+    .hobbies-content {
+        .hobbies-title {
+            h3 {
+                text-align: center;
+                font-weight: 700;
+            }
+        }
+        .hobbies-box {
+            background-color: #fff;
+            padding: 40px;
+            height: 220px;
+            .hobbies-thread {
+                text-align: center;
+                span {
+                    font-size: 19px;
+                    font-weight: 400;
+                }
+            }
+            .hobbies-icon {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-top: 20px;
+                .item {
+                    width: 60px;
+                    height: 60px;
+                    border: 1px solid #cdcdcd;
+                    position: relative;
+                    text-align: center;
+                    margin: 0px 15px;
+                    
+                    span {
+                        line-height: 50px;
+                        font-size: 30px;
+                        color: #07cb79;
+                    }
+                    .name {
+                        position: absolute;
+                        bottom: -10px;
+                        opacity: 0;
+                        color: #000;
+                        font-size: 12px;
+                        font-weight: 500;
+                        background-color: #272525;
+                        transition: all 0.5s;
+                        width: 100%;
+                        border-radius: 2px;
+                        color: #fff;
+                    }
+                    &:hover {
+                        animation: shake 0.5s;
+                        .name {
+                            display: block; 
+                            bottom: -50px;
+                            opacity: 1;
+                           
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
