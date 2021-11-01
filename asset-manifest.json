@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.dc3d2a1c.chunk.css",
-    "main.js": "/resume/static/js/main.ad6209e3.chunk.js",
-    "main.js.map": "/resume/static/js/main.ad6209e3.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.f1c71e73.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.f1c71e73.js.map",
+    "main.css": "/resume/static/css/main.b045dbe5.chunk.css",
+    "main.js": "/resume/static/js/main.7f63d925.chunk.js",
+    "main.js.map": "/resume/static/js/main.7f63d925.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.159dc995.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.159dc995.js.map",
     "static/css/2.f68393b7.chunk.css": "/resume/static/css/2.f68393b7.chunk.css",
-    "static/js/2.620842f8.chunk.js": "/resume/static/js/2.620842f8.chunk.js",
-    "static/js/2.620842f8.chunk.js.map": "/resume/static/js/2.620842f8.chunk.js.map",
-    "static/js/3.28fed1b5.chunk.js": "/resume/static/js/3.28fed1b5.chunk.js",
-    "static/js/3.28fed1b5.chunk.js.map": "/resume/static/js/3.28fed1b5.chunk.js.map",
+    "static/js/2.57deaf9b.chunk.js": "/resume/static/js/2.57deaf9b.chunk.js",
+    "static/js/2.57deaf9b.chunk.js.map": "/resume/static/js/2.57deaf9b.chunk.js.map",
+    "static/js/3.ed0caa1e.chunk.js": "/resume/static/js/3.ed0caa1e.chunk.js",
+    "static/js/3.ed0caa1e.chunk.js.map": "/resume/static/js/3.ed0caa1e.chunk.js.map",
     "index.html": "/resume/index.html",
     "static/css/2.f68393b7.chunk.css.map": "/resume/static/css/2.f68393b7.chunk.css.map",
-    "static/css/main.dc3d2a1c.chunk.css.map": "/resume/static/css/main.dc3d2a1c.chunk.css.map",
-    "static/js/2.620842f8.chunk.js.LICENSE.txt": "/resume/static/js/2.620842f8.chunk.js.LICENSE.txt",
+    "static/css/main.b045dbe5.chunk.css.map": "/resume/static/css/main.b045dbe5.chunk.css.map",
+    "static/js/2.57deaf9b.chunk.js.LICENSE.txt": "/resume/static/js/2.57deaf9b.chunk.js.LICENSE.txt",
     "static/media/3x4.dd2c2ee2.PNG": "/resume/static/media/3x4.dd2c2ee2.PNG",
     "static/media/angular.88522df8.png": "/resume/static/media/angular.88522df8.png",
     "static/media/index.css": "/resume/static/media/bg-header.3146aaad.jpg",
@@ -32,10 +32,10 @@
     "static/media/udemy.c765819a.PNG": "/resume/static/media/udemy.c765819a.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1c71e73.js",
+    "static/js/runtime-main.159dc995.js",
     "static/css/2.f68393b7.chunk.css",
-    "static/js/2.620842f8.chunk.js",
-    "static/css/main.dc3d2a1c.chunk.css",
-    "static/js/main.ad6209e3.chunk.js"
+    "static/js/2.57deaf9b.chunk.js",
+    "static/css/main.b045dbe5.chunk.css",
+    "static/js/main.7f63d925.chunk.js"
   ]
 }
